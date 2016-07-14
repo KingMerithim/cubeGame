@@ -26,5 +26,6 @@ public class Game {
        // cube.getPlayerRoom();
         cube.roomMoveDirection(koord, Direction.LEFT);
         cube.show();
+        cube.show();
     }
 }
